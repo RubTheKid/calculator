@@ -1,8 +1,7 @@
 @font-face {
   font-family:'Poppins-BoldItalic';
-  src: url('./fonts/Poppins-BoldItalic.ttf')
+  src: url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@1,300&display=swap')
 }
-
 
 *{
   font-family:'Poppins-BoldItalic',monospace;
